@@ -8,5 +8,6 @@ int main()
   double payment;
   double apr;
 
-  cout << "Enter";
+  cout << "Enter balance";
+  cin
 }
