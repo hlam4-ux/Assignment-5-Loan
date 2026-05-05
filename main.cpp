@@ -26,6 +26,8 @@ int main()
   cout << month <<"\t\t\t" << balance << endl;
 
   while (balance > 0){
+    month++;
+
     
   }
 
