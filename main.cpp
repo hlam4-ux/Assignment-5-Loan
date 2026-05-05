@@ -9,5 +9,6 @@ int main()
   double apr;
 
   cout << "Enter balance";
-  cin
+  cin >> balance;
+  
 }
