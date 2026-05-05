@@ -23,5 +23,5 @@ int main()
   int month = 0;
 
   cout << "Month\tint.\tPay\tBalance" << endl;
-  cout << month <<
+  cout << month <<"\t\t\t"
 }
