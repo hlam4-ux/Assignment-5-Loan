@@ -29,7 +29,7 @@ int main()
     month++;
 
     double interest = balance * monthlyrate;
-    
+    balance = balance + 
   }
 
 }
