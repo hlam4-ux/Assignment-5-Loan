@@ -33,7 +33,7 @@ int main()
 
     double actualpayment;
 
-    if ()
+    if (payment > balance)
   }
 
 }
