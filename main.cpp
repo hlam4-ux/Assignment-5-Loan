@@ -35,7 +35,8 @@ int main()
 
     if (payment > balance){
       actualpayment = balance;
-    
+    }else {
+      
     }
   }
 
