@@ -14,5 +14,5 @@ int main()
   cout << "Enter payment";
   cin >> payment;
 
-  cout << 
+  cout << "Enter apr"
 }
