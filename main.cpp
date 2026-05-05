@@ -20,5 +20,6 @@ int main()
   cout << fixed << setprecision(2);
 
   double monthlyrate = apr / 100 / 12
+  int month = 0;
   
 }
