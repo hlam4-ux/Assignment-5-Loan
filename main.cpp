@@ -18,4 +18,5 @@ int main()
   cin >> apr;
 
   cout << fixed << setprecision(2);
+  
 }
