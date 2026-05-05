@@ -22,6 +22,6 @@ int main()
   double monthlyrate = apr / 100 / 12;
   int month = 0;
 
-  cout << "Month\tint.\tPay\tBalance" << endl;
+  cout << "month\tint.\tpay\tbalance" << endl;
   cout << month <<"\t\t\t"
 }
