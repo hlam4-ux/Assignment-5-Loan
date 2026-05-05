@@ -17,5 +17,5 @@ int main()
   cout << "Enter apr";
   cin >> apr;
 
-  cout << fixed
+  cout << fixed << 
 }
