@@ -40,7 +40,7 @@ int main()
     }
 
     balance = balance - actualpayment;
-    cout << month << "\t" << interest << "\t" << actualpayment << "\t" 
+    cout << month << "\t" << interest << "\t" << actualpayment << "\t" << balance << endl;
   }
 
 }
