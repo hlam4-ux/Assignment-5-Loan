@@ -7,6 +7,6 @@ int main()
   double balance;
   double payment;
   double apr;
-  
-  cout << "Hello world" << endl;
+
+  cout << "Enter";
 }
