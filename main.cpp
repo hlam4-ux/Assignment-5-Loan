@@ -22,4 +22,5 @@ int main()
   double monthlyrate = apr / 100 / 12
   int month = 0;
   
+
 }
