@@ -39,7 +39,7 @@ int main()
       actualpayment = payment;
     }
 
-    
+    balance
   }
 
 }
