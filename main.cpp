@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-  double ba
+  double balance
   cout << "Hello world" << endl;
 }
