@@ -34,7 +34,7 @@ int main()
     double actualpayment;
 
     if (payment > balance){
-      
+      actualpayment
     }
   }
 
