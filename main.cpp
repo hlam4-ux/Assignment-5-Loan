@@ -43,4 +43,5 @@ int main()
     cout << month << "\t" << interest << "\t" << actualpayment << "\t" << balance << endl;
   }
 
+  retrurn 
 }
