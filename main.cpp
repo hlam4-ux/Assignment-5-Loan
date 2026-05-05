@@ -32,6 +32,7 @@ int main()
     balance = balance + interest;
 
     double actualpayment;
+
     
   }
 
