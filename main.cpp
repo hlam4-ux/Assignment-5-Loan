@@ -19,5 +19,5 @@ int main()
 
   cout << fixed << setprecision(2);
 
-  double 
+  double monthlyrate
 }
