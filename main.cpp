@@ -12,5 +12,7 @@ int main()
   cin >> balance;
 
   cout << "Enter payment";
-  cin >> 
+  cin >> payment;
+
+  cout << 
 }
