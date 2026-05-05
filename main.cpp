@@ -28,7 +28,7 @@ int main()
   while (balance > 0){
     month++;
 
-    
+    double interest 
   }
 
 }
