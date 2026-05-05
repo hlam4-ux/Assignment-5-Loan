@@ -10,5 +10,7 @@ int main()
 
   cout << "Enter balance";
   cin >> balance;
-  cout << "Enter payment"
+
+  cout << "Enter payment";
+  cin >> 
 }
