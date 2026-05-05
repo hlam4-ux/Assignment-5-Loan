@@ -5,6 +5,7 @@ using namespace std;
 int main()
 {
   double balance;
-  double 
+  double payment;
+  
   cout << "Hello world" << endl;
 }
